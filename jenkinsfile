@@ -7,11 +7,6 @@ pipeline{
                 echo "Addedd to new build"
             }
         }
-      stage("Ansible login"){
-         steps{
-           sshPublisher(publishers: [sshPublisherDesc(configName: 'Ansible-Server', transfers: [sshTransfer(cleanRemote: false, excludes: '', execCommand: 'rsync -avh /var/lib/jenkins/workspace/pipelintest/Dockerfile  root@172.31.31.78:/opt', execTimeout: 120000, flatten: false, makeEmptyDirs: false, noDefaultExcludes: false, patternSeparator: '[, ]+', remoteDirectory: '', remoteDirectorySDF: false, removePrefix: '', sourceFiles: '')], usePromotionTimestamp: false, useWorkspaceInPromotion: false, verbose: false)])
-         }
-      }
       stage("Docker Build and Push"){
          steps{
             sh 'cd /opt'
