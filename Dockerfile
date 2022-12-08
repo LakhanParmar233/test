@@ -3,7 +3,7 @@ pipeline{
      stages{
         stage("Hello Word"){
             steps{
-                echo "Hello Word in my world"
+                echo "Hello Word This is Beautifull word and i really enjoying to leave here"
             }
         }
     }
