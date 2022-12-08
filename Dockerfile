@@ -9,6 +9,7 @@ pipeline{
         }
       stage("Docker Build and Push"){
          steps{
+            sh 'rsync -avh /var/lib/jenkins/workspace/myjob/Dockerfile  root@172.31.31.78:/opt'
             sh 'cd /opt'
             sh 'docker image build -t ${JOB_NAME}:v1.${BUILD_ID} .'
             sh 'docker image tag ${JOB_NAME}:v1.${BUILD_ID}  luckyparmar/${JOB_NAME}:v1.${BUILD_ID}'
