@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1677421247,,"wq!"
+|2,0,1677423988,,"wq!"
 :q!
 |2,0,1677413192,,"q!"
 :.q!
@@ -29,34 +29,86 @@
 # Registers:
 
 # File marks:
-'0  1  8  ~/lakhanparmar
-|4,48,1,8,1677421247,"~/lakhanparmar"
-'1  1  17  ~/lakhan
-|4,49,1,17,1677420308,"~/lakhan"
-'2  26  0  ~/.git/COMMIT_EDITMSG
-|4,50,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
-'3  7  36  ~/playbook.yml
-|4,51,7,36,1677409017,"~/playbook.yml"
-'4  10  21  ~/manifest.yml
-|4,52,10,21,1677254420,"~/manifest.yml"
-'5  46  52  ~/.kube/config
-|4,53,46,52,1677225139,"~/.kube/config"
-'6  46  53  ~/.kube/config
-|4,54,46,53,1677225113,"~/.kube/config"
-'7  58  30  ~/.kube/config
-|4,55,58,30,1677225056,"~/.kube/config"
-'8  58  30  ~/.kube/config
-|4,56,58,30,1677225056,"~/.kube/config"
-'9  58  30  ~/.kube/config
-|4,57,58,30,1677225056,"~/.kube/config"
+'0  1  17  ~/revert.txt
+|4,48,1,17,1677423988,"~/revert.txt"
+'1  1  0  ~/.git/COMMIT_EDITMSG
+|4,49,1,0,1677423742,"~/.git/COMMIT_EDITMSG"
+'2  1  0  ~/.git/COMMIT_EDITMSG
+|4,50,1,0,1677423328,"~/.git/COMMIT_EDITMSG"
+'3  1  8  ~/lakhanparmar
+|4,51,1,8,1677421247,"~/lakhanparmar"
+'4  1  17  ~/lakhan
+|4,52,1,17,1677420308,"~/lakhan"
+'5  26  0  ~/.git/COMMIT_EDITMSG
+|4,53,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
+'6  26  0  ~/.git/COMMIT_EDITMSG
+|4,54,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
+'7  26  0  ~/.git/COMMIT_EDITMSG
+|4,55,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
+'8  26  0  ~/.git/COMMIT_EDITMSG
+|4,56,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
+'9  7  36  ~/playbook.yml
+|4,57,7,36,1677409017,"~/playbook.yml"
 
 # Jumplist (newest first):
+-'  1  17  ~/revert.txt
+|4,39,1,17,1677423988,"~/revert.txt"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1677423742,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1677423742,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1677423328,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1677423328,"~/.git/COMMIT_EDITMSG"
+-'  1  8  ~/lakhanparmar
+|4,39,1,8,1677421247,"~/lakhanparmar"
+-'  1  8  ~/lakhanparmar
+|4,39,1,8,1677421247,"~/lakhanparmar"
+-'  1  8  ~/lakhanparmar
+|4,39,1,8,1677421247,"~/lakhanparmar"
+-'  1  8  ~/lakhanparmar
+|4,39,1,8,1677421247,"~/lakhanparmar"
+-'  1  8  ~/lakhanparmar
+|4,39,1,8,1677421247,"~/lakhanparmar"
+-'  1  8  ~/lakhanparmar
+|4,39,1,8,1677421247,"~/lakhanparmar"
+-'  1  8  ~/lakhanparmar
+|4,39,1,8,1677421247,"~/lakhanparmar"
 -'  1  8  ~/lakhanparmar
 |4,39,1,8,1677421247,"~/lakhanparmar"
 -'  1  17  ~/lakhan
 |4,39,1,17,1677420308,"~/lakhan"
 -'  1  17  ~/lakhan
 |4,39,1,17,1677420308,"~/lakhan"
+-'  1  17  ~/lakhan
+|4,39,1,17,1677420308,"~/lakhan"
+-'  1  17  ~/lakhan
+|4,39,1,17,1677420308,"~/lakhan"
+-'  1  17  ~/lakhan
+|4,39,1,17,1677420308,"~/lakhan"
+-'  1  17  ~/lakhan
+|4,39,1,17,1677420308,"~/lakhan"
+-'  1  17  ~/lakhan
+|4,39,1,17,1677420308,"~/lakhan"
+-'  1  17  ~/lakhan
+|4,39,1,17,1677420308,"~/lakhan"
+-'  1  17  ~/lakhan
+|4,39,1,17,1677420308,"~/lakhan"
+-'  1  17  ~/lakhan
+|4,39,1,17,1677420308,"~/lakhan"
+-'  1  17  ~/lakhan
+|4,39,1,17,1677420308,"~/lakhan"
+-'  1  17  ~/lakhan
+|4,39,1,17,1677420308,"~/lakhan"
+-'  1  17  ~/lakhan
+|4,39,1,17,1677420308,"~/lakhan"
+-'  1  17  ~/lakhan
+|4,39,1,17,1677420308,"~/lakhan"
+-'  1  17  ~/lakhan
+|4,39,1,17,1677420308,"~/lakhan"
+-'  1  17  ~/lakhan
+|4,39,1,17,1677420308,"~/lakhan"
 -'  26  0  ~/.git/COMMIT_EDITMSG
 |4,39,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
 -'  26  0  ~/.git/COMMIT_EDITMSG
@@ -65,6 +117,30 @@
 |4,39,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
 -'  26  0  ~/.git/COMMIT_EDITMSG
 |4,39,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
+-'  26  0  ~/.git/COMMIT_EDITMSG
+|4,39,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
+-'  26  0  ~/.git/COMMIT_EDITMSG
+|4,39,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
+-'  26  0  ~/.git/COMMIT_EDITMSG
+|4,39,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
+-'  26  0  ~/.git/COMMIT_EDITMSG
+|4,39,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
+-'  26  0  ~/.git/COMMIT_EDITMSG
+|4,39,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
+-'  26  0  ~/.git/COMMIT_EDITMSG
+|4,39,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
+-'  26  0  ~/.git/COMMIT_EDITMSG
+|4,39,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
+-'  26  0  ~/.git/COMMIT_EDITMSG
+|4,39,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1677413170,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1677413170,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1677413170,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1677413170,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1677413170,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
@@ -89,170 +165,105 @@
 |4,39,7,36,1677409017,"~/playbook.yml"
 -'  7  36  ~/playbook.yml
 |4,39,7,36,1677409017,"~/playbook.yml"
--'  10  21  ~/manifest.yml
-|4,39,10,21,1677254420,"~/manifest.yml"
--'  10  21  ~/manifest.yml
-|4,39,10,21,1677254420,"~/manifest.yml"
--'  10  21  ~/manifest.yml
-|4,39,10,21,1677254420,"~/manifest.yml"
--'  10  21  ~/manifest.yml
-|4,39,10,21,1677254420,"~/manifest.yml"
--'  10  21  ~/manifest.yml
-|4,39,10,21,1677254420,"~/manifest.yml"
--'  10  21  ~/manifest.yml
-|4,39,10,21,1677254420,"~/manifest.yml"
--'  10  21  ~/manifest.yml
-|4,39,10,21,1677254420,"~/manifest.yml"
--'  10  21  ~/manifest.yml
-|4,39,10,21,1677254420,"~/manifest.yml"
--'  10  21  ~/manifest.yml
-|4,39,10,21,1677254420,"~/manifest.yml"
--'  10  21  ~/manifest.yml
-|4,39,10,21,1677254420,"~/manifest.yml"
--'  10  21  ~/manifest.yml
-|4,39,10,21,1677254420,"~/manifest.yml"
--'  10  21  ~/manifest.yml
-|4,39,10,21,1677254420,"~/manifest.yml"
--'  10  21  ~/manifest.yml
-|4,39,10,21,1677254420,"~/manifest.yml"
--'  10  21  ~/manifest.yml
-|4,39,10,21,1677254420,"~/manifest.yml"
--'  10  21  ~/manifest.yml
-|4,39,10,21,1677254420,"~/manifest.yml"
--'  10  21  ~/manifest.yml
-|4,39,10,21,1677254420,"~/manifest.yml"
--'  1  0  ~/manifest.yml
-|4,39,1,0,1677254413,"~/manifest.yml"
--'  1  0  ~/manifest.yml
-|4,39,1,0,1677254413,"~/manifest.yml"
--'  1  0  ~/manifest.yml
-|4,39,1,0,1677254413,"~/manifest.yml"
--'  1  0  ~/manifest.yml
-|4,39,1,0,1677254413,"~/manifest.yml"
--'  1  0  ~/manifest.yml
-|4,39,1,0,1677254413,"~/manifest.yml"
--'  1  0  ~/manifest.yml
-|4,39,1,0,1677254413,"~/manifest.yml"
--'  1  0  ~/manifest.yml
-|4,39,1,0,1677254413,"~/manifest.yml"
--'  1  0  ~/manifest.yml
-|4,39,1,0,1677254413,"~/manifest.yml"
--'  1  0  ~/manifest.yml
-|4,39,1,0,1677254413,"~/manifest.yml"
--'  1  0  ~/manifest.yml
-|4,39,1,0,1677254413,"~/manifest.yml"
--'  1  0  ~/manifest.yml
-|4,39,1,0,1677254413,"~/manifest.yml"
--'  1  0  ~/manifest.yml
-|4,39,1,0,1677254413,"~/manifest.yml"
--'  1  0  ~/manifest.yml
-|4,39,1,0,1677254413,"~/manifest.yml"
--'  1  0  ~/manifest.yml
-|4,39,1,0,1677254413,"~/manifest.yml"
--'  1  0  ~/manifest.yml
-|4,39,1,0,1677254413,"~/manifest.yml"
--'  1  0  ~/manifest.yml
-|4,39,1,0,1677254413,"~/manifest.yml"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/revert.txt
+	*	1677423985	0
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
+
+> ~/.git/COMMIT_EDITMSG
+	*	1677423736	0
+	"	1	0
 
 > ~/lakhanparmar
 	*	1677421245	0
@@ -267,10 +278,6 @@
 	^	1	18
 	.	1	17
 	+	1	17
-
-> ~/.git/COMMIT_EDITMSG
-	*	1677413191	0
-	"	26	0
 
 > ~/playbook.yml
 	*	1677409016	0
