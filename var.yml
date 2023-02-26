@@ -1,0 +1,2 @@
+mysrc=/etc/passwd
+mydest=/tmp

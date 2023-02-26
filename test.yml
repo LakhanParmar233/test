@@ -1,0 +1,4 @@
+- name: my module
+  copy:
+    src: "{{mysrc}}"
+    dest: "{{mydest}}"
