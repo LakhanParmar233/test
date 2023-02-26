@@ -12,9 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1677254420,,"wq!"
+|2,0,1677420308,,"wq!"
 :q!
-|2,0,1677225056,,"q!"
+|2,0,1677413192,,"q!"
 :.q!
 |2,0,1677212055,,".q!"
 
@@ -29,36 +29,138 @@
 # Registers:
 
 # File marks:
-'0  10  21  ~/manifest.yml
-|4,48,10,21,1677254420,"~/manifest.yml"
-'1  46  52  ~/.kube/config
-|4,49,46,52,1677225139,"~/.kube/config"
-'2  46  53  ~/.kube/config
-|4,50,46,53,1677225113,"~/.kube/config"
-'3  58  30  ~/.kube/config
-|4,51,58,30,1677225056,"~/.kube/config"
-'4  58  30  ~/.kube/config
-|4,52,58,30,1677225056,"~/.kube/config"
-'5  58  30  ~/.kube/config
-|4,53,58,30,1677225056,"~/.kube/config"
+'0  1  17  ~/lakhan
+|4,48,1,17,1677420308,"~/lakhan"
+'1  26  0  ~/.git/COMMIT_EDITMSG
+|4,49,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
+'2  7  36  ~/playbook.yml
+|4,50,7,36,1677409017,"~/playbook.yml"
+'3  10  21  ~/manifest.yml
+|4,51,10,21,1677254420,"~/manifest.yml"
+'4  46  52  ~/.kube/config
+|4,52,46,52,1677225139,"~/.kube/config"
+'5  46  53  ~/.kube/config
+|4,53,46,53,1677225113,"~/.kube/config"
 '6  58  30  ~/.kube/config
 |4,54,58,30,1677225056,"~/.kube/config"
-'7  1  0  /usr/bin/kubectl
-|4,55,1,0,1677212055,"/usr/bin/kubectl"
-'8  20  17  ~/.kube/config
-|4,56,20,17,1677209501,"~/.kube/config"
-'9  20  17  ~/.kube/config
-|4,57,20,17,1677209501,"~/.kube/config"
+'7  58  30  ~/.kube/config
+|4,55,58,30,1677225056,"~/.kube/config"
+'8  58  30  ~/.kube/config
+|4,56,58,30,1677225056,"~/.kube/config"
+'9  58  30  ~/.kube/config
+|4,57,58,30,1677225056,"~/.kube/config"
 
 # Jumplist (newest first):
+-'  1  17  ~/lakhan
+|4,39,1,17,1677420308,"~/lakhan"
+-'  26  0  ~/.git/COMMIT_EDITMSG
+|4,39,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
+-'  26  0  ~/.git/COMMIT_EDITMSG
+|4,39,26,0,1677413192,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1677413170,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1677413170,"~/.git/COMMIT_EDITMSG"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
+-'  7  36  ~/playbook.yml
+|4,39,7,36,1677409017,"~/playbook.yml"
 -'  10  21  ~/manifest.yml
 |4,39,10,21,1677254420,"~/manifest.yml"
+-'  10  21  ~/manifest.yml
+|4,39,10,21,1677254420,"~/manifest.yml"
+-'  10  21  ~/manifest.yml
+|4,39,10,21,1677254420,"~/manifest.yml"
+-'  10  21  ~/manifest.yml
+|4,39,10,21,1677254420,"~/manifest.yml"
+-'  10  21  ~/manifest.yml
+|4,39,10,21,1677254420,"~/manifest.yml"
+-'  10  21  ~/manifest.yml
+|4,39,10,21,1677254420,"~/manifest.yml"
+-'  10  21  ~/manifest.yml
+|4,39,10,21,1677254420,"~/manifest.yml"
+-'  10  21  ~/manifest.yml
+|4,39,10,21,1677254420,"~/manifest.yml"
+-'  1  0  ~/manifest.yml
+|4,39,1,0,1677254413,"~/manifest.yml"
+-'  1  0  ~/manifest.yml
+|4,39,1,0,1677254413,"~/manifest.yml"
+-'  1  0  ~/manifest.yml
+|4,39,1,0,1677254413,"~/manifest.yml"
+-'  1  0  ~/manifest.yml
+|4,39,1,0,1677254413,"~/manifest.yml"
+-'  1  0  ~/manifest.yml
+|4,39,1,0,1677254413,"~/manifest.yml"
+-'  1  0  ~/manifest.yml
+|4,39,1,0,1677254413,"~/manifest.yml"
+-'  1  0  ~/manifest.yml
+|4,39,1,0,1677254413,"~/manifest.yml"
 -'  1  0  ~/manifest.yml
 |4,39,1,0,1677254413,"~/manifest.yml"
 -'  46  52  ~/.kube/config
 |4,39,46,52,1677225139,"~/.kube/config"
 -'  46  52  ~/.kube/config
 |4,39,46,52,1677225139,"~/.kube/config"
+-'  46  52  ~/.kube/config
+|4,39,46,52,1677225139,"~/.kube/config"
+-'  46  52  ~/.kube/config
+|4,39,46,52,1677225139,"~/.kube/config"
+-'  46  52  ~/.kube/config
+|4,39,46,52,1677225139,"~/.kube/config"
+-'  46  52  ~/.kube/config
+|4,39,46,52,1677225139,"~/.kube/config"
+-'  46  52  ~/.kube/config
+|4,39,46,52,1677225139,"~/.kube/config"
+-'  46  52  ~/.kube/config
+|4,39,46,52,1677225139,"~/.kube/config"
+-'  46  52  ~/.kube/config
+|4,39,46,52,1677225139,"~/.kube/config"
+-'  46  52  ~/.kube/config
+|4,39,46,52,1677225139,"~/.kube/config"
+-'  46  52  ~/.kube/config
+|4,39,46,52,1677225139,"~/.kube/config"
+-'  46  52  ~/.kube/config
+|4,39,46,52,1677225139,"~/.kube/config"
+-'  46  52  ~/.kube/config
+|4,39,46,52,1677225139,"~/.kube/config"
+-'  46  52  ~/.kube/config
+|4,39,46,52,1677225139,"~/.kube/config"
+-'  46  52  ~/.kube/config
+|4,39,46,52,1677225139,"~/.kube/config"
+-'  46  52  ~/.kube/config
+|4,39,46,52,1677225139,"~/.kube/config"
+-'  46  53  ~/.kube/config
+|4,39,46,53,1677225113,"~/.kube/config"
+-'  46  53  ~/.kube/config
+|4,39,46,53,1677225113,"~/.kube/config"
+-'  46  53  ~/.kube/config
+|4,39,46,53,1677225113,"~/.kube/config"
+-'  46  53  ~/.kube/config
+|4,39,46,53,1677225113,"~/.kube/config"
+-'  46  53  ~/.kube/config
+|4,39,46,53,1677225113,"~/.kube/config"
+-'  46  53  ~/.kube/config
+|4,39,46,53,1677225113,"~/.kube/config"
+-'  46  53  ~/.kube/config
+|4,39,46,53,1677225113,"~/.kube/config"
+-'  46  53  ~/.kube/config
+|4,39,46,53,1677225113,"~/.kube/config"
+-'  46  53  ~/.kube/config
+|4,39,46,53,1677225113,"~/.kube/config"
+-'  46  53  ~/.kube/config
+|4,39,46,53,1677225113,"~/.kube/config"
+-'  46  53  ~/.kube/config
+|4,39,46,53,1677225113,"~/.kube/config"
+-'  46  53  ~/.kube/config
+|4,39,46,53,1677225113,"~/.kube/config"
+-'  46  53  ~/.kube/config
+|4,39,46,53,1677225113,"~/.kube/config"
+-'  46  53  ~/.kube/config
+|4,39,46,53,1677225113,"~/.kube/config"
 -'  46  53  ~/.kube/config
 |4,39,46,53,1677225113,"~/.kube/config"
 -'  46  53  ~/.kube/config
@@ -72,187 +174,127 @@
 -'  58  30  ~/.kube/config
 |4,39,58,30,1677225090,"~/.kube/config"
 -'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225090,"~/.kube/config"
+-'  58  30  ~/.kube/config
 |4,39,58,30,1677225056,"~/.kube/config"
 -'  58  30  ~/.kube/config
 |4,39,58,30,1677225056,"~/.kube/config"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677225030,"~/.kube/config"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677225030,"~/.kube/config"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677225030,"~/.kube/config"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677225030,"~/.kube/config"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677225030,"~/.kube/config"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677225030,"~/.kube/config"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677209501,"~/.kube/config"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677209501,"~/.kube/config"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677209501,"~/.kube/config"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677209501,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208606,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208606,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208606,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208606,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208571,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208571,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208571,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208571,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208417,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208417,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208417,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208417,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208388,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208388,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208388,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208388,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208388,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208388,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208388,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208388,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225056,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225056,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225056,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225056,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225056,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225056,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225056,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225056,"~/.kube/config"
+-'  58  30  ~/.kube/config
+|4,39,58,30,1677225056,"~/.kube/config"
 
 # History of marks within files (newest to oldest):
+
+> ~/lakhan
+	*	1677420306	0
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
+
+> ~/.git/COMMIT_EDITMSG
+	*	1677413191	0
+	"	26	0
+
+> ~/playbook.yml
+	*	1677409016	0
+	"	7	36
+	^	7	14
+	.	7	14
+	+	2	262
+	+	2	76
+	+	2	121
+	+	2	222
+	+	2	257
+	+	1	11
+	+	2	256
+	+	2	206
+	+	2	173
+	+	2	185
+	+	2	68
+	+	2	45
+	+	2	10
+	+	2	26
+	+	4	23
+	+	7	21
+	+	6	16
+	+	4	21
+	+	5	22
+	+	7	22
+	+	7	35
+	+	4	21
+	+	5	22
+	+	6	15
+	+	7	14
 
 > ~/manifest.yml
 	*	1677254418	0
@@ -341,37 +383,6 @@
 	.	20	0
 	+	25	11
 	+	20	0
-
-> ~/playbook.yml
-	*	1677130155	0
-	"	7	13
-	^	7	14
-	.	7	14
-	+	2	262
-	+	2	76
-	+	2	121
-	+	2	222
-	+	2	257
-	+	1	11
-	+	2	256
-	+	2	206
-	+	2	173
-	+	2	185
-	+	2	68
-	+	2	45
-	+	2	10
-	+	2	26
-	+	4	23
-	+	7	21
-	+	6	16
-	+	4	21
-	+	5	22
-	+	7	22
-	+	7	35
-	+	4	21
-	+	5	22
-	+	6	15
-	+	7	14
 
 > ~/var.yml
 	*	1677127763	0
