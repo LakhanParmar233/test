@@ -1,0 +1,3 @@
+FROM ubuntu:14.04
+RUN echo "welocme to my word0">index.html
+COPY /root/test.yml /var/lib/

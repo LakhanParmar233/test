@@ -12,9 +12,13 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1677254420,,"wq!"
+|2,0,1678199743,,"wq!"
 :q!
-|2,0,1677225056,,"q!"
+|2,0,1678198538,,"q!"
+:Q!
+|2,0,1678197698,,"Q!"
+:Wq!
+|2,0,1677602369,,"Wq!"
 :.q!
 |2,0,1677212055,,".q!"
 
@@ -29,230 +33,339 @@
 # Registers:
 
 # File marks:
-'0  10  21  ~/manifest.yml
-|4,48,10,21,1677254420,"~/manifest.yml"
-'1  46  52  ~/.kube/config
-|4,49,46,52,1677225139,"~/.kube/config"
-'2  46  53  ~/.kube/config
-|4,50,46,53,1677225113,"~/.kube/config"
-'3  58  30  ~/.kube/config
-|4,51,58,30,1677225056,"~/.kube/config"
-'4  58  30  ~/.kube/config
-|4,52,58,30,1677225056,"~/.kube/config"
-'5  58  30  ~/.kube/config
-|4,53,58,30,1677225056,"~/.kube/config"
-'6  58  30  ~/.kube/config
-|4,54,58,30,1677225056,"~/.kube/config"
-'7  1  0  /usr/bin/kubectl
-|4,55,1,0,1677212055,"/usr/bin/kubectl"
-'8  20  17  ~/.kube/config
-|4,56,20,17,1677209501,"~/.kube/config"
-'9  20  17  ~/.kube/config
-|4,57,20,17,1677209501,"~/.kube/config"
+'0  8  23  ~/lakhan1/loop.yml
+|4,48,8,23,1678199743,"~/lakhan1/loop.yml"
+'1  8  20  ~/lakhan1/loop.yml
+|4,49,8,20,1678199502,"~/lakhan1/loop.yml"
+'2  1  0  ~/lakhan1/passwd
+|4,50,1,0,1678198538,"~/lakhan1/passwd"
+'3  8  18  ~/playbook.yml
+|4,51,8,18,1678198503,"~/playbook.yml"
+'4  4  18  ~/playbook.yml
+|4,52,4,18,1678198489,"~/playbook.yml"
+'5  4  18  ~/playbook.yml
+|4,53,4,18,1678198489,"~/playbook.yml"
+'6  8  20  ~/playbook.yml
+|4,54,8,20,1678198433,"~/playbook.yml"
+'7  8  20  ~/playbook.yml
+|4,55,8,20,1678198433,"~/playbook.yml"
+'8  8  20  ~/playbook.yml
+|4,56,8,20,1678198433,"~/playbook.yml"
+'9  5  19  ~/playbook.yml
+|4,57,5,19,1678198248,"~/playbook.yml"
 
 # Jumplist (newest first):
--'  10  21  ~/manifest.yml
-|4,39,10,21,1677254420,"~/manifest.yml"
--'  1  0  ~/manifest.yml
-|4,39,1,0,1677254413,"~/manifest.yml"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  52  ~/.kube/config
-|4,39,46,52,1677225139,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
--'  46  53  ~/.kube/config
-|4,39,46,53,1677225113,"~/.kube/config"
--'  58  30  ~/.kube/config
-|4,39,58,30,1677225090,"~/.kube/config"
--'  58  30  ~/.kube/config
-|4,39,58,30,1677225090,"~/.kube/config"
--'  58  30  ~/.kube/config
-|4,39,58,30,1677225090,"~/.kube/config"
--'  58  30  ~/.kube/config
-|4,39,58,30,1677225090,"~/.kube/config"
--'  58  30  ~/.kube/config
-|4,39,58,30,1677225056,"~/.kube/config"
--'  58  30  ~/.kube/config
-|4,39,58,30,1677225056,"~/.kube/config"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677225030,"~/.kube/config"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677225030,"~/.kube/config"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677225030,"~/.kube/config"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677225030,"~/.kube/config"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677225030,"~/.kube/config"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677225030,"~/.kube/config"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  1  0  /usr/bin/kubectl
-|4,39,1,0,1677212055,"/usr/bin/kubectl"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677209501,"~/.kube/config"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677209501,"~/.kube/config"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677209501,"~/.kube/config"
--'  20  17  ~/.kube/config
-|4,39,20,17,1677209501,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677209497,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208606,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208606,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208606,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208606,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208591,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208571,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208571,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208571,"~/.kube/config"
--'  18  8  ~/.kube/config
-|4,39,18,8,1677208571,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208514,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208417,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208417,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208417,"~/.kube/config"
--'  1  13  ~/.kube/config
-|4,39,1,13,1677208417,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208388,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208388,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208388,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208388,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208388,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208388,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208388,"~/.kube/config"
--'  19  52  ~/.kube/config
-|4,39,19,52,1677208388,"~/.kube/config"
+-'  8  23  ~/lakhan1/loop.yml
+|4,39,8,23,1678199743,"~/lakhan1/loop.yml"
+-'  8  20  ~/lakhan1/loop.yml
+|4,39,8,20,1678199502,"~/lakhan1/loop.yml"
+-'  1  0  ~/lakhan1/loop.yml
+|4,39,1,0,1678199399,"~/lakhan1/loop.yml"
+-'  1  0  ~/lakhan1/loop.yml
+|4,39,1,0,1678199399,"~/lakhan1/loop.yml"
+-'  1  0  ~/lakhan1/passwd
+|4,39,1,0,1678198538,"~/lakhan1/passwd"
+-'  1  0  ~/lakhan1/passwd
+|4,39,1,0,1678198538,"~/lakhan1/passwd"
+-'  1  0  ~/lakhan1/passwd
+|4,39,1,0,1678198538,"~/lakhan1/passwd"
+-'  1  0  ~/lakhan1/passwd
+|4,39,1,0,1678198538,"~/lakhan1/passwd"
+-'  8  18  ~/playbook.yml
+|4,39,8,18,1678198503,"~/playbook.yml"
+-'  8  18  ~/playbook.yml
+|4,39,8,18,1678198503,"~/playbook.yml"
+-'  8  18  ~/playbook.yml
+|4,39,8,18,1678198503,"~/playbook.yml"
+-'  8  18  ~/playbook.yml
+|4,39,8,18,1678198503,"~/playbook.yml"
+-'  8  18  ~/playbook.yml
+|4,39,8,18,1678198503,"~/playbook.yml"
+-'  8  18  ~/playbook.yml
+|4,39,8,18,1678198503,"~/playbook.yml"
+-'  8  18  ~/playbook.yml
+|4,39,8,18,1678198503,"~/playbook.yml"
+-'  8  18  ~/playbook.yml
+|4,39,8,18,1678198503,"~/playbook.yml"
+-'  4  18  ~/playbook.yml
+|4,39,4,18,1678198494,"~/playbook.yml"
+-'  4  18  ~/playbook.yml
+|4,39,4,18,1678198494,"~/playbook.yml"
+-'  4  18  ~/playbook.yml
+|4,39,4,18,1678198494,"~/playbook.yml"
+-'  4  18  ~/playbook.yml
+|4,39,4,18,1678198494,"~/playbook.yml"
+-'  4  18  ~/playbook.yml
+|4,39,4,18,1678198494,"~/playbook.yml"
+-'  4  18  ~/playbook.yml
+|4,39,4,18,1678198494,"~/playbook.yml"
+-'  4  18  ~/playbook.yml
+|4,39,4,18,1678198494,"~/playbook.yml"
+-'  4  18  ~/playbook.yml
+|4,39,4,18,1678198494,"~/playbook.yml"
+-'  4  18  ~/playbook.yml
+|4,39,4,18,1678198489,"~/playbook.yml"
+-'  4  18  ~/playbook.yml
+|4,39,4,18,1678198489,"~/playbook.yml"
+-'  4  18  ~/playbook.yml
+|4,39,4,18,1678198489,"~/playbook.yml"
+-'  4  18  ~/playbook.yml
+|4,39,4,18,1678198489,"~/playbook.yml"
+-'  4  18  ~/playbook.yml
+|4,39,4,18,1678198489,"~/playbook.yml"
+-'  4  18  ~/playbook.yml
+|4,39,4,18,1678198489,"~/playbook.yml"
+-'  4  18  ~/playbook.yml
+|4,39,4,18,1678198489,"~/playbook.yml"
+-'  4  18  ~/playbook.yml
+|4,39,4,18,1678198489,"~/playbook.yml"
+-'  8  20  ~/playbook.yml
+|4,39,8,20,1678198479,"~/playbook.yml"
+-'  8  20  ~/playbook.yml
+|4,39,8,20,1678198479,"~/playbook.yml"
+-'  8  20  ~/playbook.yml
+|4,39,8,20,1678198479,"~/playbook.yml"
+-'  8  20  ~/playbook.yml
+|4,39,8,20,1678198479,"~/playbook.yml"
+-'  8  20  ~/playbook.yml
+|4,39,8,20,1678198479,"~/playbook.yml"
+-'  8  20  ~/playbook.yml
+|4,39,8,20,1678198479,"~/playbook.yml"
+-'  8  20  ~/playbook.yml
+|4,39,8,20,1678198479,"~/playbook.yml"
+-'  8  20  ~/playbook.yml
+|4,39,8,20,1678198479,"~/playbook.yml"
+-'  8  20  ~/playbook.yml
+|4,39,8,20,1678198433,"~/playbook.yml"
+-'  8  20  ~/playbook.yml
+|4,39,8,20,1678198433,"~/playbook.yml"
+-'  8  20  ~/playbook.yml
+|4,39,8,20,1678198433,"~/playbook.yml"
+-'  8  20  ~/playbook.yml
+|4,39,8,20,1678198433,"~/playbook.yml"
+-'  8  20  ~/playbook.yml
+|4,39,8,20,1678198433,"~/playbook.yml"
+-'  8  20  ~/playbook.yml
+|4,39,8,20,1678198433,"~/playbook.yml"
+-'  8  20  ~/playbook.yml
+|4,39,8,20,1678198433,"~/playbook.yml"
+-'  8  20  ~/playbook.yml
+|4,39,8,20,1678198433,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  5  19  ~/playbook.yml
+|4,39,5,19,1678198248,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
+-'  1  12  ~/playbook.yml
+|4,39,1,12,1678198170,"~/playbook.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/lakhan1/loop.yml
+	*	1678199741	0
+	"	8	23
+	^	8	24
+	.	8	23
+	+	4	22
+	+	5	17
+	+	8	20
+	+	6	16
+	+	8	17
+	+	7	20
+	+	4	20
+	+	5	21
+	+	8	23
+
+> ~/lakhan1/passwd
+	*	1678198537	0
+	"	1	0
+
+> ~/playbook.yml
+	*	1678198502	0
+	"	8	18
+	^	8	19
+	.	8	18
+	+	1	274
+	+	1	88
+	+	1	133
+	+	1	234
+	+	1	269
+	+	1	11
+	+	1	268
+	+	1	218
+	+	1	185
+	+	1	197
+	+	1	80
+	+	1	57
+	+	1	22
+	+	1	38
+	+	1	54
+	+	1	119
+	+	1	98
+	+	1	52
+	+	1	78
+	+	1	120
+	+	1	133
+	+	1	52
+	+	1	78
+	+	1	97
+	+	1	98
+	+	1	12
+	+	8	20
+	+	3	11
+	+	4	21
+	+	5	22
+	+	8	20
+	+	4	18
+	+	8	18
+
+> ~/pod.yml
+	*	1678118469	0
+	"	10	11
+	^	10	12
+	.	10	11
+	+	1	97
+	+	1	75
+	+	1	81
+	+	1	62
+	+	1	64
+	+	1	81
+	+	1	35
+	+	1	131
+	+	1	165
+	+	1	123
+	+	9	47
+	+	10	11
+
+> ~/test1.yml
+	*	1678097632	0
+	"	1	0
+
+> ~/Dockerfile
+	*	1678071017	0
+	"	5	9
+	^	5	10
+	.	5	7
+	+	3	24
+	+	3	60
+	+	3	10
+	+	3	44
+	+	3	39
+	+	3	21
+	+	4	17
+	+	5	7
+
+> ~/test.sh
+	*	1677467911	0
+	"	1	23
+	^	1	24
+	.	1	23
+	+	1	23
+
+> ~/Dockerfile.yml
+	*	1677433599	0
+	"	3	28
+	^	3	29
+	.	4	0
+	+	2	41
+	+	4	0
 
 > ~/manifest.yml
 	*	1677254418	0
@@ -341,37 +454,6 @@
 	.	20	0
 	+	25	11
 	+	20	0
-
-> ~/playbook.yml
-	*	1677130155	0
-	"	7	13
-	^	7	14
-	.	7	14
-	+	2	262
-	+	2	76
-	+	2	121
-	+	2	222
-	+	2	257
-	+	1	11
-	+	2	256
-	+	2	206
-	+	2	173
-	+	2	185
-	+	2	68
-	+	2	45
-	+	2	10
-	+	2	26
-	+	4	23
-	+	7	21
-	+	6	16
-	+	4	21
-	+	5	22
-	+	7	22
-	+	7	35
-	+	4	21
-	+	5	22
-	+	6	15
-	+	7	14
 
 > ~/var.yml
 	*	1677127763	0

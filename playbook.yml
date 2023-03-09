@@ -1,7 +1,8 @@
 - hosts: all
   tasks:
+    - file:
+       path: /root/lakhan1
+       state: directory 
     - copy:
-        src: "{{item.a}}"
-        dest: "{{item.b}}"
-      with_item:
-         - {a:'/etc/lakhan',b:'/tmp'}
+       src: /etc/passwd
+       dest: /root/lakhan1

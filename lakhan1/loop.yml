@@ -1,0 +1,8 @@
+- hosts: all
+  tasks:
+    - copy:
+       src: "{{item[0]}}"
+       dest: "{{item[1]}}"
+      with_nested:
+        - /etc/passwd
+        - /root/lakhan1/

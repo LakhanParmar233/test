@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: testpod
+spec:
+  containers:
+    - name: testpod
+      image: nginx
+      command: ["/bin/bash","-c", "sleep 1500"]
+  restartPolicy: Never

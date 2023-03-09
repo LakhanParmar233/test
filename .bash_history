@@ -1,33 +1,3 @@
-yum install ansible
-sudo amazon-linux-extras install ansible2 -y
-ls
-cd /etc/ansible/
-vim hosts 
-cd
-vim playbook.yml
-passwd root
-ansible-playbook playbook.yml -k
-vim playbook.yml 
-ansible-playbook playbook.yml -k
-vim /etc/ssh/sshd_config 
-systemctl restart sshd.service 
-systemctl status sshd.service 
-ansible-playbook playbook.yml -k
-vim /etc/ssh/sshd_config 
-systemctl restart sshd.service 
-ansible-playbook playbook.yml -k
-systemctl enable sshd.service 
-systemctl restart sshd.service 
-ansible-playbook playbook.yml -k
-vim /etc/ssh/sshd_config 
-systemctl restart sshd.service 
-ansible-playbook playbook.yml -k
-ssh-keygen 
-cd .ssh/
-ls
-systemctl restart sshd.
-cd
-ansible-playbook playbook.yml -k
 vim /etc/ssh/sshd_config 
 systemctl restart sshd.service 
 ansible-playbook playbook.yml -k
@@ -580,3 +550,451 @@ cd nodes/
 ls
 cd ../bin/
 ls
+git diff lakhan
+ls
+git branch
+vim lakhan 
+git branch
+git add lakhan 
+git difff lakhan
+git diff lakhan
+git swithch master1
+git switch master1
+git diff lakhan
+git commit -m "test"
+git diff lakhan
+git push -u origin master1
+git diff lakhan
+git show
+git status
+git diff
+git add lakhan
+git satus
+git status
+git commit -m "lakhan file"
+git status
+touch lakhanparmar
+git add lakhanparmar 
+git commit -m "lakhan file"
+git status
+git restor lakhanparmar
+
+git status
+git diff
+git stash lakhanparmar
+git stash
+git stash list
+git stash apply stash{0}
+git stash apply stash@{0}
+git status
+git add .
+git commit -m "sdf"
+git push -u origin master1
+git add .
+git commit -m "sdf"
+vim lakhanparmar 
+git stahs
+git stash
+git add .
+git commit -m "sdf"
+git stash apply stash@{1}
+git stash list
+git stash apply stash@{0}
+git add .
+git commit -m "sdf"
+git push -u origin master1
+git log
+git log Lakhan
+git log LakhanParmar
+git log show
+git show
+git log
+git log 8e96f40cd39cbd7a96b3ade6bec0d2f4989672b1
+git reset
+git log
+git ls-tree
+yum install trre -y
+yum install tree -y
+git ls-tree
+git ls-tree --name-only 
+git commit --amend 
+git lpg
+git log
+git revert 43a32ef0bda68edae77624f15e1b799389a16372
+git log grep | 43a32ef0bda68edae77624f15e1b799389a16372
+git log grep | "43a32ef0bda68edae77624f15e1b799389a16372"
+git log grep | "test"
+git log 43a32ef0bda68edae77624f15e1b799389a16372
+date
+touch revert.txt
+vim revert.txt 
+git history
+git add .
+git commit -m "revert"
+git log
+git revert ccb149d6893167a70ed2e487a36b84dfa79d8afa
+git log
+!
+git commit -m "tets"
+git add.
+git add .
+git commit -m "tets"
+git log
+git show 64d52490b52c7ed98766acffedf9caf2ad817682
+git satus
+git show 64d52490b52c7ed98766acffedf9caf2ad817682
+git revert 64d52490b52c7ed98766acffedf9caf2ad817682
+git log
+git fetch https://github.com/LakhanParmar233/test.git
+git brancjh
+git branch
+git diff-tree --no-commit-id --name-only -r {hash}
+git reflog
+git checkout -b new-test a190fff
+git branch
+git push -u origin new-test
+git reflog
+git checkout -b new-test1 56a1e56
+git switch master
+git add .
+git commit -m ""
+git commit -m "eeee"
+git checkout -b new-test1 56a1e56
+git push -u origin new-test1
+docker version
+vim Dockerfile.yml
+docker image ls
+docker rm (docker ps -aq)
+docker rm -q (docker ps -aq)
+docker rmi $(docker image -q)
+docker rmi $(docker images -q)
+docker image ls
+docker ps 
+docker ps -a
+docker rm f46bcb8656e4 929f64500d0f
+docker ps -a
+docker image ls
+docker rmi $(docker images -q)
+docker rmi $(docker images -q) --force
+docker ls
+docker image ls
+docker build -t Dockerfile.yml 
+docker build -t myimage Dockerfile.yml 
+docker build -t myimage Dockerfile.yml .
+docker build -t myimage .
+systemctl status docker
+docker build -t myimage .
+docker build -t Dockerfile.yml .
+docker build -t myimage Dockerfile.yml .
+docker build -t myimage .
+systemctl enable docker
+docker build -t myimage .
+ls
+cat Dockerfile.yml 
+vim Dockerfile
+docker build -t myimage .
+pwd
+vim Dockerfile
+docker build -t myimage1 .
+docker create volumes myvolume
+docker create volume myvolume
+docker image ls
+docker run -it --name lakhan myimage1
+docker info
+docker-compose --help
+yum install docker -y
+sudo curl -L "https://github.com/docker/compose/releases/download/v2.12.2/docker-compose-$(uname -s)-$(uname -m)"  -o /usr/local/bin/docker-compose
+sudo mv /usr/local/bin/docker-compose /usr/bin/docker-compose
+sudo chmod +x /usr/bin/docker-compose
+docker-compose --help
+vim Dockerfile
+docker build -t mycmd .
+docker image ls
+docker run -it --name lakhanparmar mycmd 
+vim test.sh
+ls
+mv test.yml test1.yml
+ls
+docker run -it --name lakhanparmar2 mycmd 
+mkdir lakhan
+ls -ltr
+cp test.sh /root/lakhan/
+ls
+vim Dockerfile
+docker build -t mycmd1 .
+vim Dockerfile
+docker build -t entrypoint .
+docker image ls
+docker run -it --name entry entrpoint
+docker run -it --name entry entrypoint
+cd lakhan/
+ls
+test.
+sh test.sh 
+cd
+vim Dockerfile
+cd lakhan/
+pwd
+cd
+docker build -t .
+docker build -t myenew .
+docker run -it --name entry1 mynew
+docker image ls
+docker run -it --name entry1 myenew
+du -sh /var/lib/
+ll
+du -sh Dockerfile
+du -sh playbook.yml 
+du -sh  test
+du -sh  test.sh 
+netstat -nltp
+netstat-nltp
+netstat -nltp
+free -h
+top
+free -h
+vmstat
+can -n test.sh | wc
+cat -n test.sh | wc
+wc test.sh 
+dmesg
+get test.sh 
+yum install get 
+kubectl get pods
+kubectl get pods -n default
+kubectl create ns test
+vim pod.yml
+kubect create pod pod.yml 
+kubectl create pod pod.yml 
+kubectl create pod -f  pod.yml 
+kubectl create -f  pod.yml 
+vim pod.yml 
+kubectl create -f  pod.yml 
+vim pod.yml 
+kubectl create -f  pod.yml 
+vim pod.yml 
+kubectl create -f  pod.yml 
+kubectl get po
+kubectl get po -A --watch
+kubectl get pods
+kubectl describe pods test
+kubectl get po -n default -A --watch
+kubectl get po --watch
+kubectl get po -n default -A --watch
+watch kubectl get pods
+kubectl get nodes
+watch kubectl get pods
+kubectl get po -A
+kubectl get pods
+vim pod.yml 
+kubectl get pods
+kubectl apply -f pod.yml 
+kubectl delete pod test
+kubectl apply -f pod.yml 
+watch kubectl get pods
+kubectl describr pods test
+kubectl describe pods test
+kubectl delete -f pod.yml 
+vim pod.yml 
+watch kubectl get pods
+kubectl apply -f pod.yml 
+watch kubectl get pods
+vim pod.yml 
+kubectl get pods
+kubectl apply -f pod.yml 
+kubectl delete -f pod.yml 
+kubectl apply -f pod.yml 
+watch kubectl get pods
+kubectl logs -f test
+kubectl describe pods test
+kubectl delete -f pod.yml 
+vim pod.yml 
+kubectl apply -f pod.yml 
+kubectl get pods
+kubectl describe pods test
+kubectl exec -it test
+kubectl exec -it pod test
+kubectl get pods
+kubectl exec -it test -- /bin/bash
+docker version
+vim Dockerfile
+docker build -t .
+docker build -t test1 .
+docker imgae ls
+docker images ls
+docker image ls
+docker volume ls
+docker volume create myvolume
+docker volume ls
+docker run -it --name myvolume1 /home/ec2-user/:/myvolume mycontainer
+docker run -it --name myvolume1 /home/ec2-user/:/myvolume test1
+docker run -it --name myvolume1 -v /home/ec2-user/:/myvolume test1
+ll
+cd /home/ec2-user/
+ll
+cd
+docker ls
+docker image ls
+docker tag test1 lakhan/test1
+docker image ls
+docker container ls
+docker ps a
+docker ps -a
+docker start 531803bfa872
+docker ps -a
+docker ps
+docker commit test1 myimage
+docker commit 531803bfa872 myimage1
+docker image ls
+kubectl exec -it test -- /bin/bash
+docker exec -it 531803bfa872 /bin/bash
+vim Dockerfile
+docker build -t tests .
+docker run -it --name lscontainer tests -- /bin/bash
+docker ps
+docker run -itd --name lscontainer tests -- /bin/bash
+docker run -itd --name lscontainer1 tests -- /bin/bash
+docker exec -it lscontainer1 -- /bin/bash
+docker start lscontainer1
+docker exec -it lscontainer1 -- /bin/bash
+docker ps
+docker ps -a
+docker image ls
+docker rm $(docker ps -aq)
+docker rm -f $(docker ps -aq)
+docker ls
+docker ps
+docker ps -a
+docker image ls
+docker rmi -f $(docker ps -aq)
+docker rmi -f $(docker image -aq)
+docker rmi -f $(docker image -q)
+docker rmi -f $(docker images -q)
+docker image ls
+docker build -t test .
+docker image ls
+docker run -it --name tests test
+docker ps -a
+kubectl get pods
+kubectl get pods -n kube-system
+ls
+ll
+vim test1.yml 
+vim pod.yml
+kubectl apply -f pod.yml 
+kubectl get pods
+kubectl get pods --show-labels
+kubectl get pods --show-labels dev=test
+kubectl labels pods test dev=test1
+kubectl label pods test dev=test1
+kubectl get pods --show-labels dev=test
+kubectl get pods --show-labels dev=test1
+kubectl get pods --show-labels
+kubectl get pods -l dev=test1
+kubectl label pods test dev=test2
+kubectl label pods test dev2=test2
+kubectl get pods -l dev!=test1
+ kubectl delete -f pod.yml 
+kubectl label pods test dev2=test2
+kubectl get pods
+kubectl delete -f pod.yml 
+ll
+vim pod.yml 
+kubectl apply -f pod.yml 
+vim pod.yml 
+kubectl apply -f pod.yml 
+kubectl get pods
+kubectl describe pods testpod
+curl -L https://git.io/get_helm.sh | bash -s -- --version v3.8.2
+ls
+helm init
+helm lint
+wget https://get.helm.sh/helm-v3.6.3-linux-amd64.tar.gz
+ls
+tar -xvf helm-v3.6.3-linux-amd64.tar.gz
+mv linux-amd64/helm /usr/local/bin/helm
+heml version
+helm version
+helm repo add stable https://charts.helm.sh/stable
+helm repo list
+helm install tomcat
+helm install jenkins
+helm search tomcat
+helm search repo  tomcat
+helm search stable/tomcat
+helm search repo  tomcat
+helm pull tomcat
+helm search repo jenkins
+helm install testchart stable/tomcat
+helm chart
+ls
+helm create helloword
+ls
+tree helloword/
+cd helloword/
+ll
+ls
+cd
+ll
+helm get all mychart
+helm get all
+helm get all helloword/
+helm get all helloword manifest.yml 
+helm get all manifest.yml 
+ll
+cd helloword/
+helm get all
+ll
+helm get all values.yaml 
+cd
+helm status helloword/
+kubectl get pods
+kubectl get sa
+kubectl get clusterrolr
+kubectl get clusterrole
+kubectl get sa -A
+k get all pods
+k get all
+kubectl get all
+ansible --version
+ls
+vim playbook.yml 
+ansible all -m command -a "uptime" -k
+vim playbook.yml 
+ansible-playbook playbook.yml 
+ansible-playbook playbook.yml  -k
+ls
+cd l
+cd lakhan/
+ls
+ll
+cd
+vim playbook.yml 
+ansible-playbook playbook.yml  -k
+ll
+cd
+pwd
+vim playbook.yml 
+ansible-playbook playbook.yml  -k
+ls
+ll
+cd lakhan1/
+ll
+vim passwd 
+vim loop.yml
+ansible-playbook loop.yml -k
+vim loop.yml
+rm -rf passwd 
+ll
+ansible-playbook loop.yml -k
+ll
+ansible all -m setup --tree /tmp/wprker-
+ansible all -m setup --tree /tmp/wprker-1 -k
+cd /tmp/
+ll
+rm wprker-*
+ll
+rm -rf wprker-*
+ll
+cd
+ls -ltr
