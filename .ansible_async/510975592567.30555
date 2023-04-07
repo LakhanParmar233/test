@@ -1,0 +1,1 @@
+{"msg": "[Errno 2] No such file or directory", "failed": true, "cmd": "'\u201ccommand\u201d'", "invocation": {"module_args": {"warn": true, "executable": null, "_uses_shell": false, "strip_empty_ends": true, "_raw_params": "\u201ccommand\u201d", "removes": null, "argv": null, "creates": null, "chdir": null, "stdin_add_newline": true, "stdin": null}}, "rc": 2}

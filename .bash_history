@@ -580,3 +580,138 @@ cd nodes/
 ls
 cd ../bin/
 ls
+git clone https://github.com/LakhanParmar233/test.git
+ls
+cd test/
+ls
+cd
+git branch
+git init
+ls -l
+ls -ltr
+cd .git/
+ll
+git status
+cd
+git status
+git add .
+git status
+ls
+git add test.yml 
+git commit -m "my 1st commit"
+git status
+git remote add origin https://github.com/LakhanParmar233/test.git
+git push -u origin main
+git push -u origin master
+git config user.name "LakhanParmar233"
+git config credential.username "LakhanParmar233"
+git push -u origin master
+git config --global credential.useHttpPath true
+git push -u origin master
+history
+git create master1
+git branch create master1
+git branch master1
+ls
+git branch
+git switch master1
+git branch
+git add test.yml 
+git status 
+git status
+git add test.yml 
+git commit -m "master branch"
+git status
+git push -u origin master1
+ansible group-name -m aync_status -a “Jid=number”
+ansible all -m aync_status -a “Jid=number” -k
+ansible all -m sync_status -a “Jid=number” -k
+ansible all -B 3600 -P 0 -a “command”
+ansible all -B 3000 -P 0 -a "command"
+ansible all -m setup
+cd /usr/share/ansible
+ls
+cd /usr/share/
+ls
+ls grep | ansible
+cd
+ansible-playbook
+ansible version
+ansible --version
+cd /usr/bin/
+ls
+cat ansible
+cat -n ansible
+ansible --version
+cd /etc/ansible/
+ls
+cd roles/
+ls
+cd
+which ansible
+cd /var/log/
+ls
+ll
+cd
+cd /etc/ansible/
+cat hosts 
+cd
+cd /etc/ansible/
+cat ansible.cfg 
+cd
+ls
+vim playbook.yml 
+ansible-galaxy create test
+ansible-galaxy create role test
+ansible-galaxy init myfrole
+ls
+cd myfrole/
+ls
+git --help
+git --help -a
+git --help -m
+git sttaus
+git status
+git add myfrole/
+git status
+git commit -a "my secod commit"
+git commit -a
+git commit -m "my second commit"
+git status
+git push -u origin master
+git switch master1
+git branch
+git push -u origin master
+git add myfrole/
+git commit -m "my second commit"
+git push -u origin master
+git push -u origin master1
+git checkout master1
+git checkout master
+git branch master2
+git merge master1 master2
+git commit -m "master 2 commit"
+git push -u origin master2
+touch lakhan
+git statsh lakhan
+git stash lakhan
+git add lakhan
+git stash lakhan
+git branch
+git config --list
+git log
+git show 56
+git show 211d3d423e213a17da729e83c361012f4cb1924e
+git brnach -d mster2
+git branch -d mster2
+git branch
+git branch -d master2
+git branch
+git push -u origin master
+git branch
+git branch today
+git branch
+git merger master today
+git merge master today
+git merge today master
+git branch today
