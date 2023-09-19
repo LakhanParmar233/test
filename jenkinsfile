@@ -9,6 +9,7 @@ pipeline{
         }
       stage("Docker Build and Push"){
          steps{
+            sh 'terraform init'
             sh 'terraform apply --auto-approve'
          }
       }
