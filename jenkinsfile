@@ -9,8 +9,9 @@ pipeline{
         }
       stage("Docker Build and Push"){
          steps{
-            sh 'terraform init'
-            sh 'terraform apply --auto-approve'
+            sh 'terraform init --var-file="terraform-dev.tfvars"
+            sh  'terraform plan --var-file="terraform-dev.tfvars"'
+            sh  'terraform apply --var-file="terraform-dev.tfvars" --auto-approve'
          }
       }
     }
